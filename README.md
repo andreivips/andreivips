@@ -1,4 +1,4 @@
-👋 Hi, I’m @andreivips please continue to https://github.com/vipsprojects for my latest repos and visit https://visprojects.com
+👋 Hi, I’m @andreivips please continue to https://github.com/vipsprojects for my latest repos and visit https://vipsprojects.com
 
 <!---
 andreivips/andreivips is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
